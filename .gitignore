@@ -10,3 +10,4 @@
 .DS_Store}
 Data Cleaning/HistPat.csv
 Data Cleaning/patents_1970to87.csv
+Data Cleaning/patents_assignee_name_location_from_1970.csv
